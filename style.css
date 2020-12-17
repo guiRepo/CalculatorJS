@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+.formuCalc{
+    padding-left: 245px;
+    padding-bottom: 2%;
+}
+
+.titleCalc{
+    margin-left: 5px;
+    margin-right: 5px;
+}
