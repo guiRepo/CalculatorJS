@@ -1,15 +1,28 @@
+.display {
+    justify-content: center;
+    background-color: rgb(201, 201, 201);
+    padding: 15px;
+    width: 290px;
+    text-align: right;
+    font-size: 20px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+button {
+    padding: 10px;
+    width: 67px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: rgb(194, 194, 194);
+    color: black;
+    font-size: 20px;
+}
+button:hover {
+ cursor: pointer;
+ background-color: rgb(182, 178, 178);
+}button:active {
+ background-color: rgb(136, 136, 136);
+}
 h1{
     text-align: center;
-}
-body{
-    background-color: grey;
-}
-.formuCalc{
-    padding-left: 245px;
-    padding-bottom: 2%;
-}
-
-.titleCalc{
-    margin-left: 5px;
-    margin-right: 5px;
 }
